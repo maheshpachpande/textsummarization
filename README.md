@@ -27,6 +27,7 @@
 - update the main.py
 - update the app.py
 
-# Data-Ingestion (research -> data_ingestion.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
+#### Data-Ingestion (config -> config.yaml -> research -> 01_data_ingestion.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
 
-# 
+#### Data-Validation (config -> config.yaml -> research -> 02_data_validation.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
+
