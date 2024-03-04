@@ -31,3 +31,14 @@
 
 #### Data-Validation (config -> config.yaml -> research -> 02_data_validation.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
 
+#### Data-Transformation (config -> config.yaml -> research -> 03_data_transformation.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
+
+#### Model-Trainer (params.yaml -> config -> config.yaml -> research -> 04_model_trainer.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
+
+#### Model-Evaluation (config -> config.yaml -> research -> 05_model_evaluaion.ipynb -> entity -> configuration manager -> conponents -> pipeline -> main)
+
+### Pipeline for prediction prediction.py
+
+### appy.py
+
+
